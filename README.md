@@ -1,2 +1,4 @@
-# Website_template_for_a_shop
- Website template for a shop
+# Website template for a shop
+
+<p align="center">
+<img src="https://github.com/Raurez/Image-repo-profile/blob/main/shop_templete.png" style="height: 75%; width:75%;"/></p>
